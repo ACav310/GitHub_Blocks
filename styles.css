@@ -9,6 +9,9 @@ img {
   border-radius: 5%;
 }
 
+.flip {
+  transform: scaleX(-1);
+}
 .container {
   background-color: lightgray;
   min-height: 600px;
